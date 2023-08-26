@@ -1,0 +1,5 @@
+Tiempo: O(1)
+.
+.
+.
+Simplemente sumar dos variables.

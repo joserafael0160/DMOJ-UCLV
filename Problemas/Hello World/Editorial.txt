@@ -1,0 +1,5 @@
+Tiempo: O(1)
+.
+.
+.
+Un simple "Hello, World!" de toda la vida. Ojo con lo de "seguido de una linea en blanco".

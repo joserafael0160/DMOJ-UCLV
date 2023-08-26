@@ -1,0 +1,13 @@
+Tiempo: O(n)
+.
+.
+.
+El ejercicio nos propone hallar la sumatoria de todos los numeros entre 1 hasta N (incluyéndolos). 
+Ejemplos: 3 sería 1 + 2 + 3 = 6			
+	  4       1 + 2 + 3 + 4 = 10
+	  
+Pero también hay que tener en cuenta el caso en el que el valor que nos den sea negativo de N hasta 1
+Ejemplos: -2 sería  -2 + -1 + 0 + 1 = -2
+	  -4        -4 + -3 + -2 + -1 + 0 + 1 = -9
+	  -3        -3 + -2 + -1 + 0 + 1 = -5
+En caso de que sea negativo el valor que te dan si te fijas podrías hacer una pequeña optimización y es que llegue solo hasta el -2 al hacer la sumatoria porque sino estará haciendo iteraciones para nada porque estará haciendo la siguiente operación -1 + 0 + 1 cuando esto da 0 es innecesario que lo recorra. 

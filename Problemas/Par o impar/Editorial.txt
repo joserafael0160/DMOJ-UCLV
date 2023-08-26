@@ -1,0 +1,8 @@
+Tiempo: O(1)
+.
+.
+.
+El problema consiste en determinar si un número es par (even) o impar (odd).
+
+Un número es par cuando al dividirse entre 2 queda de resto 0, teniendo esto en cuenta cualquier número que no cumpla con esta condición es impar. 
+
