@@ -1,7 +1,3 @@
-Tiempo: O(n)
-.
-.
-.
 Te van a entregar una palabra, de la cual tienes que sacar la longitud de la subcadena con más vocales (a,e,i,o,u) juntas.
 Ejemplos:            awaiusec           escritorio        
 		     a aiu e            e   i o io

@@ -1,6 +1,2 @@
-Tiempo: O(n)
-.
-.
-.
 Mi solución a este problema fue simple, simplemente comprobar la cantidad de números hasta n que no se dividen por 2, 3 o 5 para ello simplemente hice un while (n--) y la comprobación.
 Hay otra solución que es más rápida en O(1) usando el principio de inclusión y exclusión de combinatoria pero es más complejo y no fue el que yo implementé.

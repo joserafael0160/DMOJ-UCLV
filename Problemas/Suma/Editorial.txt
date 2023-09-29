@@ -1,8 +1,4 @@
-Tiempo: O(n)
-.
-.
-.
-El ejercicio nos propone hallar la sumatoria de todos los numeros entre 1 hasta N (incluyéndolos). 
+El ejercicio nos propone hallar la sumatoria de todos los números entre 1 hasta N (incluyéndolos). 
 Ejemplos: 3 sería 1 + 2 + 3 = 6			
 	  4       1 + 2 + 3 + 4 = 10
 	  

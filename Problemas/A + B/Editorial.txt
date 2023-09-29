@@ -1,5 +1,1 @@
-Tiempo: O(n)
-.
-.
-.
 Simplemente hacer una suma de dos variables N cantidad de veces.
