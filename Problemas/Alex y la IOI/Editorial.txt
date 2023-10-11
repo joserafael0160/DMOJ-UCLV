@@ -1,0 +1,9 @@
+Alex sale de un aereopuerto a, y tiene que llegar a un aereopuerto b, en la ruta existen otros aereopuertos n que pertenecen a dos compañias  que las denominamos 0 y 1. 
+
+El objetivo es calcular el costo mínimo de llegar de donde se encuentra a donde quiere llegar 
+ 
+El costo del vuelo de un aereopuerto a otro es 0 si pertenecen a la misma compañia y es |i - j| si pertenecena compañias distintas
+
+Entonces podemos decir que la respuesta va a ser siempre o 0 o 1: 
+    - Es 0 en caso de que el aereopuerto en el que estamos sea de la misma compañia que el aereopuerto al que Alex debe ir.
+    - Es 1 en el caso contrario 
